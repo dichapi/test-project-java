@@ -1,0 +1,5 @@
+com\cmdm\model\Question.class
+com\cmdm\service\QuestionService.class
+com\cmdm\service\QuestionService$QuestionJpaRepository.class
+com\cmdm\controller\QuestionController.class
+com\cmdm\JavaTestApplication.class
